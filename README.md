@@ -16,3 +16,4 @@ Power Query
 Data Visualization
 
 ## Dashboard Preview
+<img width="3300" height="2217" alt="Netflix Content Analytics Dashboard_page-0001" src="https://github.com/user-attachments/assets/1cf2ca57-2fec-48ae-8b05-917a6b7574fe" />
