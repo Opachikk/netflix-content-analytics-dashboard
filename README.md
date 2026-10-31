@@ -12,7 +12,6 @@ Dataset: 8,800+ Netflix titles
 
 ## Tools Used
 Power BI
-Power Query
 Data Visualization
 
 ## Dashboard Preview
